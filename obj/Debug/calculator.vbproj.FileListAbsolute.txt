@@ -1,0 +1,12 @@
+C:\Users\ØyvindStensland\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\ØyvindStensland\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\ØyvindStensland\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\ØyvindStensland\source\repos\calculator\bin\Debug\calculator.xml
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.vbproj.AssemblyReference.cache
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.xml
+C:\Users\ØyvindStensland\source\repos\calculator\obj\Debug\calculator.pdb
